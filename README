@@ -1,5 +1,3 @@
 README
 
-git clone --recurse-submodules <link>
-
-chat-ui is a submodule from huggingface, but use move .env.local into that folder before running
+chat-ui-main is a local copy of the chat-ui repo (7.11.23) from huggingface + our local environment
